@@ -3,7 +3,7 @@
 | Name | Profile |
 | :--: | ------- |
 | Antone | [AntonThyg](https://github.com/AntonThyg) |
-| Cody | [TBA](https://github.com) |
+| Cody | [c-rawlings](https://github.com/c-rawlings) |
 
 | Number | Repository | Description |
 | :----: | ------ | ----------- |
